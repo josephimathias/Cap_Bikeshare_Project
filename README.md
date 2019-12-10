@@ -11,7 +11,7 @@ Please take a look at the slides that summarize this project and include some in
   <img src=(https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)>
 </p>
 
-![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif =866)
 
 
 
