@@ -7,15 +7,7 @@ My project involves
 
 Please take a look at the slides that summarize this project and include some interesting graphs [here](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/slides.pdf). To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
 
-<p align="center">
-  <img src=(https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)>
-</p>
-
-![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif =866x)
-
-
-
-![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
 
 ## Process
 
@@ -42,13 +34,9 @@ I tested many classifiers and ultimately used random forest. After hyperparamete
 #### 4. Build maps
 
 I built two types of maps:
-* one to view trends over time
-<p align="center">
-  <img src=![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)>
-</p>
-* the other to propose a solution to a business problem facing Capital Bikeshare
-<p align="center">
-  <img src=![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif))>
-</p>
+* one to view trends over time: 
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/historical_maps_gif.gif)
+* and the other to propose a solution to a business problem facing Capital Bikeshare:
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
 
 As I mentioned above, they can be tested [here](https://obscure-garden-58632.herokuapp.com). 
