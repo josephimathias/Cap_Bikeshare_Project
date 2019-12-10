@@ -5,13 +5,13 @@ My project involves
 * making choropleth maps that illustrate ridership by neighborhood in any given hour since 2015
 * building a map that recommends zones for dynamic pricing in real time
 
-Please take a look at the slides that summarize this project and include some interesting graphs [here](https://github.com/jmathias/Cap_Bikeshare_Project/blob/master/slides.pdf). To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
+Please take a look at the slides that summarize this project and include some interesting graphs [here](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/slides.pdf). To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
 
-![alt text](https://github.com/jmathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
 
-![alt text](https://github.com/jmathias/Cap_Bikeshare_Project/blob/master/images/historical_maps_gif.gif)
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/historical_maps_gif.gif)
 
-![alt text](https://github.com/jmathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
 
 ## Process
 
