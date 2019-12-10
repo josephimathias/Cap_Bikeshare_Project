@@ -1,6 +1,6 @@
-# Capital Bikeshare - Visualizing and Predicting Ridership
+![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/header.png)
 
-My project involves 
+This project involves 
 * building a machine learning model to predict Capital Bikeshare ridership in Washington, DC
 * making choropleth maps that illustrate ridership by neighborhood in any given hour since 2015
 * building a map that recommends zones for dynamic pricing in real time
