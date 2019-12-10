@@ -34,9 +34,9 @@ I tested many classifiers and ultimately used random forest. After hyperparamete
 #### 4. Build maps
 
 I built two types of maps:
-* one to view trends over time: 
+* one to view a snapshot of how many rides started in each DC neighborhood cluster at a given time: 
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/historical_maps_gif.gif)
 * and the other to propose a solution to a business problem facing Capital Bikeshare:
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
 
-As I mentioned above, they can be tested [here](https://obscure-garden-58632.herokuapp.com). 
+As I mentioned above, the maps can be tested [here](https://obscure-garden-58632.herokuapp.com).
