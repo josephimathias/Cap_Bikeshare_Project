@@ -8,7 +8,7 @@ My project involves
 Please take a look at the slides that summarize this project and include some interesting graphs [here](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/slides.pdf). To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
 
 <p align="center">
-  <img src=![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)>
+  <img src=(https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)>
 </p>
 
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
