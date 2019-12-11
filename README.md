@@ -5,7 +5,7 @@ This project involves
 * making choropleth maps that illustrate ridership by neighborhood in any given hour since 2015
 * building a map that recommends zones for dynamic pricing in real time
 
-Please take a look at the slides that summarize this project and include some interesting graphs [here](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/slides.pdf). To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
+Please take a look at the slides that summarize this project [here](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/slides.pdf). The slides include some interesting graphs . To make historical choropleths and view the dynamic pricing map, click [here](https://obscure-garden-58632.herokuapp.com).
 
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/model_gif.gif)
 
@@ -29,7 +29,7 @@ Processing this data included
 
 #### 3. Build models and tune hyperparameters
 
-I tested many classifiers and ultimately used random forest. After hyperparameter tuning through grid search, my random forest classifier achieves an r^2 score of **89%**.
+I tested many classifiers and ultimately used random forest. After hyperparameter tuning through grid search, my random forest classifier achieves an r^2 of **89%**.
 
 #### 4. Build maps
 
