@@ -36,7 +36,7 @@ I tested many classifiers and ultimately used random forest. After hyperparamete
 I built two types of maps:
 * One to view a snapshot of how many rides started in each DC neighborhood cluster at a given time: 
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/historical_maps_gif.gif)
-* The other to propose a solution to a business problem facing Capital Bikeshare:
+* The other to propose a solution to a business problem facing Capital Bikeshare, diverting customers from empty or near-empty docks to fuller docks:
 ![alt text](https://github.com/josephimathias/Cap_Bikeshare_Project/blob/master/images/dynamic_pricing_gif.gif)
 
 Again, the maps can be tested [here](https://obscure-garden-58632.herokuapp.com).
